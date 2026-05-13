@@ -1,14 +1,12 @@
-# sentiment_analysis.ipynb
-Built a model to classify text into positive, negative, and neutral categories, 
 # Sentiment Analysis using Machine Learning
-
-## Project Overview
+A Machine Learning project that analyzes text sentiment and predicts whether the sentiment is Positive, Negative, or Neutral using Natural Language Processing techniques.
+## 🚀 PROJECT OVERVIEW
 This project is a Machine Learning based Sentiment Analysis system that classifies text into:
 - Positive
 - Negative
 - Neutral
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -16,13 +14,13 @@ This project is a Machine Learning based Sentiment Analysis system that classifi
 - NLP
 - Jupyter Notebook
 
-## Features
+## 📌 Feature
 - Text preprocessing
 - Sentiment classification
 - Machine learning model training
 - Prediction system
 
-## Project Workflow
+## 📊 Project Workflow
 1. Data Collection
 2. Data Preprocessing
 3. Feature Extraction
